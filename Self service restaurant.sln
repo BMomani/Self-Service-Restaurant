@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self Service Restaurant", "WindowsFormsApplication1\Self Service Restaurant.csproj", "{C880C839-D50B-43A8-B908-16F801CA52FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C880C839-D50B-43A8-B908-16F801CA52FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C880C839-D50B-43A8-B908-16F801CA52FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C880C839-D50B-43A8-B908-16F801CA52FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C880C839-D50B-43A8-B908-16F801CA52FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
