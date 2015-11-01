@@ -1,4 +1,4 @@
-# App based on  Builder Design Pattren
-Self Service Restaurant uses Bilder Design Pattren 
+# App based on  Builder Design Pattern
+Self Service Restaurant uses Builder Design Pattern
 do you Know the app starts as an assignment 
 
